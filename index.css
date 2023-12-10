@@ -133,18 +133,3 @@ body{
     margin-bottom: 10px;
 } 
 
-
-@media screen and (max-width: 768px) {
-    .options{
-        display: none;
-    }
-    .search{
-        width: 375px;
-    }
-    i{
-        margin-left: 1rem;
-    }
-    .poster{
-        display: none;
-    }
-  }
